@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 09febd2d2c90fd684c6ece25a9e0566c0a452e7e coolieaugust <45829522-coolieaugust@users.noreply.replit.com> 1754064755 +0000	commit (initial): Initial commit
+09febd2d2c90fd684c6ece25a9e0566c0a452e7e 2611ca9997db7727578809dae0676c5868eaba58 coolieaugust <45829522-coolieaugust@users.noreply.replit.com> 1754065225 +0000	commit: Add kitchen activity detection from images, videos, and webcam streams
+2611ca9997db7727578809dae0676c5868eaba58 d8b0e692172965fa562ee4d5a90654fa720f9800 coolieaugust <45829522-coolieaugust@users.noreply.replit.com> 1754065231 +0000	commit: Add a sample image to test that the kitchen activity detection is working
+d8b0e692172965fa562ee4d5a90654fa720f9800 6386cc448f37e7fe558c1f52ef8222593142a1f8 coolieaugust <45829522-coolieaugust@users.noreply.replit.com> 1754065472 +0000	commit: Show bounding boxes around detected objects in images and webcam streams

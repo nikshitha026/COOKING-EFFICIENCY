@@ -1,0 +1,8 @@
+Show bounding boxes around detected objects in images and webcam streams
+
+Implements bounding box visualization using OpenCV and canvas overlay for image and webcam object detection.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: d84f4829-87f9-4897-92af-79534511a3c2
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/de2edc94-023c-4993-84bc-3f61e48be13c/d84f4829-87f9-4897-92af-79534511a3c2/kNbu6FK
